@@ -1,0 +1,33 @@
+name: hide_byte
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  another_xlider: ^1.1.2
+  cryptography: ^2.0.5
+  cryptography_flutter: ^2.0.2
+  file_picker: ^4.6.1
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.1.1
+  loading_animation_widget: ^1.2.0+3
+  open_file: ^3.2.1
+  share_plus: ^4.5.3
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: GoogleSans
+      fonts:
+        - asset: assets/fonts/ProductSans-Regular.ttf
