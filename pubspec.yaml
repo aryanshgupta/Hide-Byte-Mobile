@@ -10,8 +10,6 @@ environment:
 
 dependencies:
   another_xlider: ^1.1.2
-  cryptography: ^2.0.5
-  cryptography_flutter: ^2.0.2
   file_picker: ^4.6.1
   flutter:
     sdk: flutter

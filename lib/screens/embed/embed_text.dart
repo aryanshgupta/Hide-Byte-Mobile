@@ -1,5 +1,3 @@
-import 'dart:convert';
-import 'package:cryptography/cryptography.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:hide_byte/components/dotted_divider.dart';
